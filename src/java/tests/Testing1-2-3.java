@@ -2,7 +2,6 @@
  * Kata link: https://www.codewars.com/kata/testing-1-2-3/java
  */
 
-
 import org.junit.Test;
 import java.util.Arrays;
 import static org.junit.Assert.assertEquals;
